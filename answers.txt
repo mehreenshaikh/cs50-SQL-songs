@@ -1,0 +1,1 @@
+I feel like I had to google a lot of stuff surrounding how to format in SQL (which by the way feels a bit too much like regular english in that it sounds less formulaic than C or Python or even Scratch when using it).
